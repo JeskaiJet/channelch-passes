@@ -3,51 +3,44 @@
   "passTypeIdentifier": "pass.mk.local",
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "4BC1A2B11B9B4443",
-  "organizationName": "ChannelCH Passes",
-  "description": "Apple Wallet pass project",
-  "foregroundColor": "rgb(255, 255, 255)",
-  "backgroundColor": "rgb(17, 24, 39)",
-  "labelColor": "rgb(156, 163, 175)",
+  "organizationName": "啾纳亚之家",
+  "description": "啾纳亚之家访客签证",
+  "foregroundColor": "rgb(245, 245, 247)",
+  "backgroundColor": "rgb(44, 44, 46)",
+  "labelColor": "rgb(199, 199, 204)",
   "generic": {
     "primaryFields": [
       {
         "key": "p1",
-        "label": "ACCESS",
-        "value": "Guest"
+        "label": "签证类型",
+        "value": "永久访客"
       }
     ],
     "secondaryFields": [
       {
         "key": "s1",
-        "label": "ROOM",
-        "value": "4B"
-      }
-    ],
-    "auxiliaryFields": [
-      {
-        "key": "a1",
-        "label": "VALID",
-        "value": "Today"
+        "label": "有效期",
+        "value": "永久"
       }
     ],
     "backFields": [
       {
         "key": "b1",
-        "label": "Terms",
-        "value": "Membership is non-transferable. Cancellation requires 30 days written notice.",
+        "label": "地址",
+        "value": "上海市长宁区法华镇路635弄19号402",
         "dataDetectorTypes": []
       }
     ]
   },
-  "logoText": "ChannelCH Passes",
-  "barcodes": [
-    {
-      "format": "PKBarcodeFormatQR",
-      "message": "STUDIO-GUEST-4B",
-      "messageEncoding": "iso-8859-1",
-      "altText": "STUDIO-GUEST-4B"
-    }
-  ],
+  "logoText": "啾纳亚之家",
   "webServiceURL": "https://example.invalid/passkit",
-  "authenticationToken": "0000000000000000"
+  "authenticationToken": "0000000000000000",
+  "maxDistance": 500,
+  "locations": [
+    {
+      "longitude": 121.418589,
+      "latitude": 31.208428,
+      "relevantText": "啾纳亚之家"
+    }
+  ]
 }

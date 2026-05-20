@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.mk.local",
+  "teamIdentifier": "9733K94JUG",
+  "serialNumber": "4F232F11CF5AEDA5",
+  "organizationName": "普罗米修斯之家",
+  "description": "普罗米修斯",
+  "foregroundColor": "rgb(0, 0, 0)",
+  "backgroundColor": "rgb(255, 255, 255)",
+  "labelColor": "rgb(0, 0, 0)",
+  "generic": {
+    "primaryFields": [
+      {
+        "key": "p1",
+        "label": "THE FABULOUS",
+        "value": "AHE"
+      }
+    ],
+    "secondaryFields": [
+      {
+        "key": "s1",
+        "label": "MEMBER SINCE",
+        "value": "2025"
+      }
+    ],
+    "backFields": [
+      {
+        "key": "b1",
+        "label": "加入日期",
+        "value": "2025.08",
+        "dataDetectorTypes": [],
+        "dateStyle": "PKDateStyleNone",
+        "timeStyle": "PKDateStyleNone"
+      }
+    ]
+  },
+  "logoText": "普罗米修斯之家",
+  "barcodes": [
+    {
+      "format": "PKBarcodeFormatQR",
+      "message": "AHE-PROMETHEUS",
+      "messageEncoding": "iso-8859-1",
+      "altText": "AHE-PROMETHEUS"
+    }
+  ],
+  "webServiceURL": "https://example.invalid/passkit",
+  "authenticationToken": "0000000000000000",
+  "maxDistance": 500
+}

@@ -5,15 +5,22 @@
   "serialNumber": "4BC1A2B11B9B4443",
   "organizationName": "啾纳亚之家",
   "description": "啾纳亚之家访客签证",
-  "foregroundColor": "rgb(245, 245, 247)",
-  "backgroundColor": "rgb(44, 44, 46)",
-  "labelColor": "rgb(199, 199, 204)",
+  "foregroundColor": "rgb(0, 0, 0)",
+  "backgroundColor": "rgb(255, 255, 255)",
+  "labelColor": "rgb(0, 0, 0)",
   "generic": {
+    "headerFields": [
+      {
+        "key": "h1",
+        "label": "签证类型",
+        "value": "永久访客"
+      }
+    ],
     "primaryFields": [
       {
         "key": "p1",
-        "label": "签证类型",
-        "value": "永久访客"
+        "label": "访客",
+        "value": "Box"
       }
     ],
     "secondaryFields": [
@@ -28,11 +35,22 @@
         "key": "b1",
         "label": "地址",
         "value": "上海市长宁区法华镇路635弄19号402",
-        "dataDetectorTypes": []
+        "attributedValue": "<a href=\"https://maps.apple.com/place?address=%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%95%BF%E5%AE%81%E5%8C%BA%E6%B3%95%E5%8D%8E%E9%95%87%E8%B7%AF635%E5%BC%84%E5%85%AC%E6%88%BF19%E5%8F%B7&amp;coordinate=31.206588,121.423273&amp;name=%E6%B3%95%E5%8D%8E%E9%95%87%E8%B7%AF635%E5%BC%84%E5%85%AC%E6%88%BF19%E5%8F%B7&amp;place-id=H2710I3F92684C739E1&amp;map=explore\">上海市长宁区法华镇路635弄19号402</a>",
+        "dataDetectorTypes": [],
+        "dateStyle": "PKDateStyleNone",
+        "timeStyle": "PKDateStyleNone"
       }
     ]
   },
   "logoText": "啾纳亚之家",
+  "barcodes": [
+    {
+      "format": "PKBarcodeFormatQR",
+      "message": "GUEST-P-BOX",
+      "messageEncoding": "iso-8859-1",
+      "altText": "GUEST-P-BOX"
+    }
+  ],
   "webServiceURL": "https://example.invalid/passkit",
   "authenticationToken": "0000000000000000",
   "maxDistance": 500,

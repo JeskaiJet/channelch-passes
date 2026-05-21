@@ -1,0 +1,61 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.mk.local",
+  "teamIdentifier": "9733K94JUG",
+  "serialNumber": "3C77733427D3495D",
+  "organizationName": "Kiki House of Prometheus",
+  "description": "RZ Prometheus",
+  "foregroundColor": "rgb(0, 0, 0)",
+  "backgroundColor": "rgb(255, 255, 255)",
+  "labelColor": "rgb(0, 0, 0)",
+  "generic": {
+    "headerFields": [
+      {
+        "key": "h1",
+        "label": "KIKI HOUSE OF",
+        "value": "Prometheus"
+      }
+    ],
+    "primaryFields": [
+      {
+        "key": "p1",
+        "label": "FOUNDING PARENT",
+        "value": "RZ"
+      }
+    ],
+    "secondaryFields": [
+      {
+        "key": "s1",
+        "label": "MEMBER SINCE",
+        "value": "2025"
+      }
+    ],
+    "auxiliaryFields": [
+      {
+        "key": "a1",
+        "label": " ",
+        "value": "Love, Fire, Resistance"
+      }
+    ],
+    "backFields": [
+      {
+        "key": "b1",
+        "label": "MEMBER SINCE",
+        "value": "2025",
+        "dataDetectorTypes": []
+      }
+    ]
+  },
+  "logoText": "普罗米修斯之家",
+  "barcodes": [
+    {
+      "format": "PKBarcodeFormatQR",
+      "message": "RZ-PROMETHEUS",
+      "messageEncoding": "iso-8859-1",
+      "altText": "RZ-PROMETHEUS"
+    }
+  ],
+  "webServiceURL": "https://example.invalid/passkit",
+  "authenticationToken": "0000000000000000",
+  "maxDistance": 500
+}

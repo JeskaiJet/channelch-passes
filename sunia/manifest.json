@@ -1,12 +1,12 @@
 {
-  "pass.json": "4a51712c4652107d8181fa0f6cacffeac2c4d43e",
+  "pass.json": "fc6a4c19d935d742eeaab3d40e1892fcc89a2ca2",
   "icon.png": "3d14e98e9ba4e25ecade43699ad6829e2892ef6b",
   "icon@2x.png": "68a4f2e32924893771b184abfa3ad1625e6c640a",
   "icon@3x.png": "009b7a4c525e336161a2ccb8cb9a4a89c1ed06df",
   "logo.png": "3269a93a6ff89db6499cb64bc8f941e401804730",
   "logo@2x.png": "99d517048fee81ff80a1554d6f2b134d7f22a63d",
   "logo@3x.png": "5a74718fe0216307811c180be0ecde5231b49604",
-  "thumbnail.png": "3cc763b00c6cd74ecc0d378bda7e74c4d78ebdec",
-  "thumbnail@2x.png": "7aa26698376960203a217dc933e3d6200aec03a3",
-  "thumbnail@3x.png": "00ee4ffc003d3dec4174ebdbe742857befed2c2a"
+  "thumbnail.png": "07721e397adbb222674d601087bf4106cd48a44a",
+  "thumbnail@2x.png": "f7c1e15c2d4de6cfca21a02f21177ef069d041e1",
+  "thumbnail@3x.png": "98a00f4e3743637dc4b07871e64e5e31bd9b7f39"
 }

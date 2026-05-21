@@ -4,7 +4,7 @@
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "6FBC0910BB53F14E",
   "organizationName": "Kiki House of Prometheus",
-  "description": "Sunia Prometheus",
+  "description": "Tingwen Prometheus",
   "foregroundColor": "rgb(0, 0, 0)",
   "backgroundColor": "rgb(255, 255, 255)",
   "labelColor": "rgb(0, 0, 0)",
@@ -19,8 +19,8 @@
     "primaryFields": [
       {
         "key": "p1",
-        "label": "FOUNDING GODMOTHER",
-        "value": "Sunia"
+        "label": "HOUSE MEMBER",
+        "value": "Tingwen"
       }
     ],
     "secondaryFields": [
@@ -50,9 +50,9 @@
   "barcodes": [
     {
       "format": "PKBarcodeFormatQR",
-      "message": "SUNIA-PROMETHEUS",
+      "message": "TINGWEN-PROMETHEUS",
       "messageEncoding": "iso-8859-1",
-      "altText": "SUNIA-PROMETHEUS"
+      "altText": "TINGWEN-PROMETHEUS"
     }
   ],
   "webServiceURL": "https://example.invalid/passkit",

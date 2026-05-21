@@ -4,15 +4,15 @@
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "CE2FFE9FADE7D45A",
   "organizationName": "I'm Working late kiki",
-  "description": "Theater ticket",
-  "foregroundColor": "rgb(255, 255, 255)",
-  "backgroundColor": "rgb(127, 29, 29)",
-  "labelColor": "rgb(254, 202, 202)",
+  "description": "I'm Working Late... Kiki",
+  "foregroundColor": "rgb(245, 245, 247)",
+  "backgroundColor": "rgb(44, 44, 46)",
+  "labelColor": "rgb(199, 199, 204)",
   "eventTicket": {
     "headerFields": [
       {
         "key": "h1",
-        "label": "CURTAIN",
+        "label": "START TIME",
         "value": "8:00 PM"
       }
     ],
@@ -20,43 +20,37 @@
       {
         "key": "p1",
         "label": "SHOW",
-        "value": "The Glass Harbor"
+        "value": " "
       }
     ],
     "secondaryFields": [
       {
         "key": "s1",
-        "label": "VENUE",
-        "value": "Grand Hall"
-      },
-      {
-        "key": "s2",
-        "label": "LEVEL",
-        "value": "Orchestra"
+        "label": "EVENT ",
+        "value": "I'm Working Late... KIKI"
       }
     ],
     "auxiliaryFields": [
       {
         "key": "a1",
-        "label": "ROW",
-        "value": "C"
+        "label": "LOCATION",
+        "value": "瑞金南路500号 NOX Club"
       },
       {
         "key": "a2",
-        "label": "SEAT",
-        "value": "8"
+        "label": "DATE",
+        "value": "2026/05/22"
       }
     ],
     "backFields": [
       {
         "key": "b1",
-        "label": "Entry",
-        "value": "Show this pass at the door. Valid ID required for 21+ entry.",
+        "label": "HOST BY",
+        "value": "Sunia Prometheus",
         "dataDetectorTypes": []
       }
     ]
   },
-  "logoText": "I'm Working late kiki",
   "semantics": {
     "eventType": "PKEventTypeLivePerformance",
     "eventName": "Phoenix Tour",
@@ -77,14 +71,15 @@
       }
     ]
   },
-  "barcodes": [
-    {
-      "format": "PKBarcodeFormatPDF417",
-      "message": "CIVIC-GLASS-C-8",
-      "messageEncoding": "iso-8859-1",
-      "altText": "C / 8"
-    }
-  ],
+  "relevantDate": "2026-05-22T11:00:00.000Z",
+  "expirationDate": "2026-05-22T16:00:00.000Z",
   "webServiceURL": "https://example.invalid/passkit",
-  "authenticationToken": "0000000000000000"
+  "authenticationToken": "0000000000000000",
+  "maxDistance": 101,
+  "locations": [
+    {
+      "longitude": 121.418606,
+      "latitude": 31.208379
+    }
+  ]
 }

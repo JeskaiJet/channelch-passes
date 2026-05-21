@@ -3,17 +3,24 @@
   "passTypeIdentifier": "pass.mk.local",
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "4F232F11CF5AEDA5",
-  "organizationName": "普罗米修斯之家",
-  "description": "普罗米修斯",
+  "organizationName": "Kiki House of Prometheus",
+  "description": "RZ Prometheus",
   "foregroundColor": "rgb(0, 0, 0)",
   "backgroundColor": "rgb(255, 255, 255)",
   "labelColor": "rgb(0, 0, 0)",
   "generic": {
+    "headerFields": [
+      {
+        "key": "h1",
+        "label": "KIKI HOUSE OF",
+        "value": "Prometheus"
+      }
+    ],
     "primaryFields": [
       {
         "key": "p1",
-        "label": "THE FABULOUS",
-        "value": "AHE"
+        "label": "FOUNDING PARENT",
+        "value": "RZ"
       }
     ],
     "secondaryFields": [
@@ -23,14 +30,19 @@
         "value": "2025"
       }
     ],
+    "auxiliaryFields": [
+      {
+        "key": "a1",
+        "label": " ",
+        "value": "Love, Fire, Resistantce"
+      }
+    ],
     "backFields": [
       {
         "key": "b1",
-        "label": "加入日期",
-        "value": "2025.08",
-        "dataDetectorTypes": [],
-        "dateStyle": "PKDateStyleNone",
-        "timeStyle": "PKDateStyleNone"
+        "label": "MEMBER SINCE",
+        "value": "2025",
+        "dataDetectorTypes": []
       }
     ]
   },
@@ -38,9 +50,9 @@
   "barcodes": [
     {
       "format": "PKBarcodeFormatQR",
-      "message": "AHE-PROMETHEUS",
+      "message": "RZ-PROMETHEUS",
       "messageEncoding": "iso-8859-1",
-      "altText": "AHE-PROMETHEUS"
+      "altText": "RZ-PROMETHEUS"
     }
   ],
   "webServiceURL": "https://example.invalid/passkit",

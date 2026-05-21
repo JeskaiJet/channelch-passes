@@ -4,11 +4,18 @@
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "4BC1A2B11B9B4443",
   "organizationName": "普罗米修斯之家",
-  "description": "普罗米修斯",
+  "description": "AHE Prometheus",
   "foregroundColor": "rgb(0, 0, 0)",
   "backgroundColor": "rgb(255, 255, 255)",
   "labelColor": "rgb(0, 0, 0)",
   "generic": {
+    "headerFields": [
+      {
+        "key": "h1",
+        "label": "KIKI HOUSE OF",
+        "value": "Prometheus"
+      }
+    ],
     "primaryFields": [
       {
         "key": "p1",
@@ -23,10 +30,17 @@
         "value": "2025"
       }
     ],
+    "auxiliaryFields": [
+      {
+        "key": "a1",
+        "label": " ",
+        "value": "Love, Fire, Resistance"
+      }
+    ],
     "backFields": [
       {
         "key": "b1",
-        "label": "加入日期",
+        "label": "MEMBER SINCE",
         "value": "2025.08",
         "dataDetectorTypes": [],
         "dateStyle": "PKDateStyleNone",

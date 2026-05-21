@@ -1,9 +1,12 @@
 {
-  "pass.json": "d0bfceac7b8ddb9b32a47bf8ce92b7567d89b6ba",
+  "pass.json": "4a51712c4652107d8181fa0f6cacffeac2c4d43e",
   "icon.png": "3d14e98e9ba4e25ecade43699ad6829e2892ef6b",
   "icon@2x.png": "68a4f2e32924893771b184abfa3ad1625e6c640a",
   "icon@3x.png": "009b7a4c525e336161a2ccb8cb9a4a89c1ed06df",
-  "thumbnail.png": "0b4a0feb866c1f5ed5a9fe74edc7eb2b010f4e2b",
-  "thumbnail@2x.png": "e7b7621e9752dfbd0fb7eb18787dc34cf04432ee",
-  "thumbnail@3x.png": "de5d9a31cdfb736cafa37ba42e2a444c71dbdd5e"
+  "logo.png": "3269a93a6ff89db6499cb64bc8f941e401804730",
+  "logo@2x.png": "99d517048fee81ff80a1554d6f2b134d7f22a63d",
+  "logo@3x.png": "5a74718fe0216307811c180be0ecde5231b49604",
+  "thumbnail.png": "3cc763b00c6cd74ecc0d378bda7e74c4d78ebdec",
+  "thumbnail@2x.png": "7aa26698376960203a217dc933e3d6200aec03a3",
+  "thumbnail@3x.png": "00ee4ffc003d3dec4174ebdbe742857befed2c2a"
 }

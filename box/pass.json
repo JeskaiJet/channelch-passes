@@ -4,7 +4,7 @@
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "3C77733427D3495D",
   "organizationName": "Kiki House of Prometheus",
-  "description": "RZ Prometheus",
+  "description": "Box Prometheus",
   "foregroundColor": "rgb(0, 0, 0)",
   "backgroundColor": "rgb(255, 255, 255)",
   "labelColor": "rgb(0, 0, 0)",
@@ -19,8 +19,8 @@
     "primaryFields": [
       {
         "key": "p1",
-        "label": "FOUNDING PARENT",
-        "value": "RZ"
+        "label": "HOUSE MEMBER",
+        "value": "Box"
       }
     ],
     "secondaryFields": [
@@ -52,7 +52,7 @@
       "format": "PKBarcodeFormatQR",
       "message": "RZ-PROMETHEUS",
       "messageEncoding": "iso-8859-1",
-      "altText": "RZ-PROMETHEUS"
+      "altText": "BOX-PROMETHEUS"
     }
   ],
   "webServiceURL": "https://example.invalid/passkit",

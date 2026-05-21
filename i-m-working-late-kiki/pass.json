@@ -19,7 +19,7 @@
     "primaryFields": [
       {
         "key": "p1",
-        "label": "SHOW",
+        "label": " ",
         "value": " "
       }
     ],
@@ -47,6 +47,19 @@
         "key": "b1",
         "label": "HOST BY",
         "value": "Sunia Prometheus",
+        "dataDetectorTypes": []
+      },
+      {
+        "key": "b2",
+        "label": "LOCATION",
+        "value": "上海市徐汇区瑞金南路500号NOX Club",
+        "attributedValue": "<a href=\"https://maps.apple.com/place?address=Ruijin%20South%20Road%20No.500,%20Xuhui,%20Shanghai%20China&amp;coordinate=31.198688,121.467785&amp;name=Jinhe%20Yuejie%20500&amp;place-id=H2710I3F9268B87353F&amp;map=explore\">上海市徐汇区瑞金南路500号NOX Club</a>",
+        "dataDetectorTypes": []
+      },
+      {
+        "key": "b3",
+        "label": "KIKI HOUSE OF PROMETHEUS",
+        "value": " ",
         "dataDetectorTypes": []
       }
     ]

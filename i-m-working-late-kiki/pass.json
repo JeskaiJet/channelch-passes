@@ -53,7 +53,7 @@
         "key": "b2",
         "label": "LOCATION",
         "value": "上海市徐汇区瑞金南路500号NOX Club",
-        "attributedValue": "<a href=\"https://maps.apple.com/place?address=Ruijin%20South%20Road%20No.500,%20Xuhui,%20Shanghai%20China&amp;coordinate=31.198688,121.467785&amp;name=Jinhe%20Yuejie%20500&amp;place-id=H2710I3F9268B87353F&amp;map=explore\">上海市徐汇区瑞金南路500号NOX Club</a>",
+        "attributedValue": "<a href=\"https://maps.apple.com/place?address=%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E6%B1%87%E5%8C%BA%E7%91%9E%E9%87%91%E5%8D%97%E8%B7%AF500%E5%8F%B7&amp;coordinate=31.198688,121.467785&amp;name=%E9%94%A6%E5%92%8C%E8%B6%8A%E7%95%8C500&amp;place-id=H2710I3F9268B87353F&amp;map=transit\">上海市徐汇区瑞金南路500号NOX Club</a>",
         "dataDetectorTypes": []
       },
       {
@@ -91,8 +91,9 @@
   "maxDistance": 101,
   "locations": [
     {
-      "longitude": 121.418606,
-      "latitude": 31.208379
+      "longitude": 121.467785,
+      "latitude": 31.198688,
+      "relevantText": "Have fun!"
     }
   ]
 }
